@@ -41,7 +41,7 @@
 
     More meditation @ 9am
     Get as much out of afternoon pairing as possible
-    In the morning, start to look more at Outstanding goals as there's no pre-set work
+    In the morning, after daily catch up, look into pair programming and have a better understanding of driver/navigator style
 
 ### Did I achieve yesterdays goals today?
 
