@@ -46,3 +46,33 @@
 ### Did I achieve yesterdays goals today?
 
     Yes :)
+
+## Day 3:
+
+### General Notes:
+
+    Continued meditation, is proving to be a nice way to start the working day
+
+### Did I have fun?
+
+    Less so than yesterday, myself and my pairing partner (Marie) struggle more today as the tasks ramped up in difficulty.  That said we tried to maintain some positivity, and are going to come back to finish off step 11 tomorrow between the morning session and afternoon pair programming.  It's also nice pairing with someone different each day, getting to know them more, and Marie and I got on well.
+    
+    Also, had our first group check in.  Was nice to hear most people in the same boat and finding it quite a challenge.  I think as I was fortunate enough to speak to some previous Makers, I expected this so it's maybe less of a shock, but is still a steep learning curve, but one which the cohort and our group seem to be happy and excited to tackle head on.
+
+### Am I a better programmer?    
+    
+    Yes. I tried (and hopefully succeeded) to use better techniques I'd read up about for Driver/Navigator pair programming.  Am also getting more to grips with the idea of writing a test to help shape the code/solution.
+
+    In order to re-enforce the TDD I've started the dice app which was some additional work as part of the TDD training on Day 2
+
+    Also learnt a bit about attr_reader, though I want to more reading and have a better understanding tomorrow!
+
+### What to I want to achieve tomorrow?
+
+    Find out more about attr_reader.
+    Attend and understand the basics of Debugging
+    Attend morning meditation.  Whilst this is repetitive, am keen to make it a habit, to see how much benefit it can give
+
+### Did I achieve yesterdays goals today?
+
+    Yes!
