@@ -2,6 +2,10 @@
 
 ## Day 1:
 
+### Summary
+
+    Intro to students and cohort, intro to EQ/Meditation with Dana, details of the first week
+
 ### General Notes:
 
     Lovely to meet the cohort and coaches.  Nice way to introduce the course and feel enthusiastic about the next 12 weeks
@@ -18,6 +22,10 @@
     Do first bit of pair programming and provide some initial thoughts
 
 ## Day 2:
+
+### Summary
+
+    TDD Workshop, First Pair Programming for Boris Bikes challenge
 
 ### General Notes:
 
@@ -49,6 +57,10 @@
 
 ## Day 3:
 
+### Summary
+
+    Intro to goal setting, first Peer Group check-in and then more challenge pairing
+
 ### General Notes:
 
     Continued meditation, is proving to be a nice way to start the working day
@@ -76,3 +88,54 @@
 ### Did I achieve yesterdays goals today?
 
     Yes!
+
+## Day 4:
+
+### Overview
+
+    Debugging workshop then pairing
+
+### General Notes:
+
+    Debugging workshop was a good insight into how to narrow down an error by adding output to record what's happening in the code as it steps through. Also, nice demo on how to break down lines/blocks of code
+
+    Afternoon coding was brilliant, really felt like Jack and I made some real progress in the afternoon and sharpened up our pairing skills. 
+
+### Did I have fun?
+
+    A lot, finished the day feeling great and with more confidence about the course, the Boris Bikes challenge and my capability to use TDD and pair programming.  The process of writing feature then unit tests followed by the code is starting to sink in.
+
+### Am I a better programmer?
+
+    Definitely, the session on debugging taught me a lot, and Jack and I used those in the afternoon.  As mentioned above my pairing skills improved too
+
+### What do I want to do tomorrow?
+
+    Go back to attr_reader (from yesterday)
+    Finish off final part which Jack and I worked on today
+    Do more work on Dice app
+    Complete the additional work from the debugging session
+
+### Did I achieve yesterdays goals today?
+
+    No, as I haven't fully understood attr_reader
+
+## Day 5:
+
+### General Notes:
+
+
+
+### Did I have fun?
+
+
+
+### Am I a better programmer?
+
+
+
+### What do I want to do tomorrow?
+
+
+
+### Did I achieve yesterdays goals today?
