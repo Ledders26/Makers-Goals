@@ -124,18 +124,36 @@
 
 ### General Notes:
 
-
+    First retro, which was good and nice to see everyone working together and the general good feeling around the cohort.
 
 ### Did I have fun?
 
-
+    Yes!  Enjoyed catching up with both my peer group and the JL guys in the morning, retro brought us all together and then pairing with Chloe was fun in the afternoon.  Have also enjoyed tonight working on the weekend challenge and getting it (mostly) done!
 
 ### Am I a better programmer?
 
+    Yes, have given some constructive feedback, and received some, around driver/navigator...both with the same conclusion that the line between them when driving is hard (as you want to contribute to the solution).
 
+    Debugging also improved and have learnt about doubles and stubs, which seem a great method of testing
+
+    I've also got a lot better at writing rspec tests.
 
 ### What do I want to do tomorrow?
 
+    Well, more for Monday and all of next week!
 
+    1. Speak to coach about how to add an rspec test that does a check on an Array containing (or not) a specific value
+    2. Get some feedback on weekend challenge
+    3. Go back on some of the missed bits from week 1, including TDD and Debugging examples and possible finishing Boris Bikes
+    4. Provide and gather more feedback
 
 ### Did I achieve yesterdays goals today?
+
+    I've achieved 2/4, though during the day I added one for giving Jack some feedback on pairing, which I did.  Those not done are included above
+
+
+## Week summary
+
+    Overall I've thoroughly enjoyed the first week.  The cohort all seem lovely, we're all supporting each other, there's people from many different backgrounds and no one seems to want to shirk the hard work.  I think by the end of 12 weeks we'll be very close.
+
+    I've learnt so much.  Not just TDD, Debugging, coding, pair programming etc that is part of the course, and meditation which has been a revelation, but about myself.  I've enjoyed it even more than I thought possible, despite the amount of work, the late nights, and very hectic days.  Can't wait for week 2.
