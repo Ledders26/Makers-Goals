@@ -65,27 +65,28 @@ Probably be my goal for a few days, but want to make a start watching it and see
 
 ### Summary
 
-
+No lessons today, but spent some time with peer group and then working on goals.
 
 ### General Notes:
 
-
+Started watching the exemplar on the weekend challenge, which I will watch the rest of.  Already has given me some hints and tips on how to improve my TDD.  The afternoon I worked with Eddie.  Had a great session together and made quite a lot of progress, learning a lot on the way
 
 ### Did I have fun?
 
-
+Yes, lots!
 
 ### Am I a better programmer?
 
-
+Yes - learnt more from the exemplar, and in the pair coding I learnt a lot more about mocking, and Eddie helped me understand a few different methods to write rspec tests
 
 ### What do I want to do tomorrow?
 
-
+Continue watching the rest of the exemplar
+Provide some feedback for Chloe (as she has sent me a request)
 
 ### Have I completed today's goals?
 
-
+Yes, I have started watching the exemplar video and updated my goals (as you can see!)
 
 ## Day 3:
 
