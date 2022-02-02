@@ -92,31 +92,34 @@ Yes, I have started watching the exemplar video and updated my goals (as you can
 
 ### Goals for today
 
-
+None set today in peer chat :() - was a full days programme but I will endeavour to always set goals on future mornings
+Send some feedback to Chloe (as per yesterdays goals)
 
 ### Summary
 
-
+After our peer catchup we had a Feedback session with Dana, then our first Process workshop, where I worked with Victoria, followed by a brief pairing session with Charlotte
 
 ### General Notes:
 
-
+The Process workshop was very enlightening, watching someone who is 4 weeks ahead, learnt some process tips and good to see how they use TDD after more practice.  
 
 ### Did I have fun?
 
-
+Yes - enjoyed all three sessions
 
 ### Am I a better programmer?
 
-
+Yes, though large part of the day more about feedback, though I suppose this feeds into being better at most jobs including programmer!  But the session with Victoria I feel helped me improve my TDD skills
 
 ### What do I want to do tomorrow?
 
-
+Set goals!
+Watch exemplar video
+Look at double process - think it makes more sense now, but want to enforce it
 
 ### Have I completed today's goals?
 
-
+Yes, in that I sent Chloe some feedback.  But didn't set enough goals
 
 ## Day 4:
 
