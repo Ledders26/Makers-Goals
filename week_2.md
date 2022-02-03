@@ -125,31 +125,39 @@ Yes, in that I sent Chloe some feedback.  But didn't set enough goals
 
 ### Goals for today
 
+**Better Understand mocks/doubles**
+Improve understanding, what I'm not entirely clear on is why, outside of the example of last weekends airport challenge, using it to mock a random(ish) event (in that case their being a storm, which I gave a 1/20 chance), doubles etc would be used.
 
+**Watch more of the exemplar video for the airport challenge**
+As it says on the tin really!
 
 ### Summary
 
-
+In the morning we had a Domain Modelling workshop, at the end of which John went through doubles/mocking after a request from the cohort.  Afternoon was spend pairing with Kathleen
 
 ### General Notes:
 
+Domain modelling was interesting to see, and nice to understand how we come up with a plan for classes etc.  Was very happy John ran through mocking. There were a lot of questions, but for me the main thing was getting more used to the syntax, but more crucially why.  I had understod what they did, but only understood their use to step in for a non-standard response (ie a user input, a random event etc), but John explained you do it for unit testing to keep tests within a unit and make them non-reliant on a seperate class.  Inter-class testing is covered by Functional testing.  This means, if something breaks in class A, it won't break the tests for class B, which is still working as before.
 
+Also very much enjoyed pairing with Kathleen - although her schedule seems tough being dialled in from Australia!  By the time we finished around 5:30pm it was 4:30am for her!
 
 ### Did I have fun?
 
-
+Yes, very much, especially learning more about doubles and coding with Kathleen, we got on very well
 
 ### Am I a better programmer?
 
-
+Yes - as mentioned about doubles/mocks...but also the modelling is good to understand and finally the challenge today moved on to splitting a class, which was interesting and made me practice large chunks of what has been learnt in the first nearly two weeks (!!)
 
 ### What do I want to do tomorrow?
 
-
+* Watch more of the exemplar - still finding it a help.
+* Eddie asked for some help with the Class splitting step - have offered to help as, aside from liking Eddie and enjoying working with him, it might help solidify it in my mind!
+* Work on the weekend challenge tomorrow
 
 ### Have I completed today's goals?
 
-
+Yes - as detailed understand mocks/doubles now, and watched another 30 mins of the exemplar
 
 ## Day 5:
 
