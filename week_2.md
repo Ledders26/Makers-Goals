@@ -163,28 +163,36 @@ Yes - as detailed understand mocks/doubles now, and watched another 30 mins of t
 
 ### Goals for today
 
+**Watch more of the exemplar**
+As I've had for a couple of days, not setting myself the goal of finishing, but I'm wanting to watch a bit more each day.  I'm making notes on anything learnt in order to monitor my progress on this
 
+**Work on the weekend challenge**
+As it's Friday it's time to break the back of the weekend challenge!  Don't expect to finish it tonight, but would like to get to a point of knowing what I want to do and cleared over 50% of the user stories
 
 ### Summary
 
+As there were no workshops, the morning was a few catch ups, Peer Group, JL Group and spent 30 mins with Eddie (see y'days "what do I want to do tomorrow") - the 30 mins with Eddie we learnt a lot and realised parts of the challenge I'd missed, so once catch ups done spent some time on the Oystercard challenge and did more of a split of the Classes.
 
+Afternoon I coded with Ed - we had a good session cracking on with some more of the Boris Bikes challenge
+
+Evening - time to start the weekend challenge!
 
 ### General Notes:
 
-
+Made some more progress with the Boris Bikes challenge, which we enjoyed and the retro's are always a nice way to round up the week
 
 ### Did I have fun?
 
-
+Yes, good day!
 
 ### Am I a better programmer?
 
-
+Yes I think so - myself and Ed went back over the splitting of the Class and think it drilled home some of what I've learnt over the previous day or two
 
 ### What do I want to do tomorrow?
 
-
+I'll focus on that Monday as it's the weekend, but plan is to make as much progress with the weekend challenge as possible
 
 ### Have I completed today's goals?
 
-
+Yes - by the end of Friday night/Sat morning I'd made a good start on weekend challenge and had found time for another 20 mins of the exemplar
