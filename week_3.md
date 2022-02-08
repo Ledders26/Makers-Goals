@@ -53,31 +53,36 @@ None set...givem the lack of sleep being in hospital then coming into the aftern
 
 ### Goals for today
 
+**Spend a bit more time with Dash to complete yesterdays work**
+As I had to finish early, we're going to revisit the afternoon challenge and try and complete a few more steps ahead of the afternoon.  I will measure this just by the amount of time we spend (plan is 45 mins to an hour)
 
+**Start watching takeaway exemplar**
+I believe it's a 90 minute video, so if I can spend 25 mins each day I will have watched it by the end of the week, so to measure success today, I want to have watched first 25 mins at least
 
 ### Summary
 
-
+In the morning we had an intro to HTTP process modelling, then I spent 30 mins with Dash to make up for the lost time from yesterday and then pair coding with Peter
 
 ### General Notes:
 
-
+Process modelling for HTTP seems far more binary - there's less interpretation/freedom than their is for defining classes etc.  But I think I prefer that!  Was a good session.  Then Dash and I cleared off a few more steps on the daily challenge before I paired with Peter.  Had a good session and have started work on the actual Battle application after an intro to how Sinatra and capybara works.
 
 ### Did I have fun?
 
-
+Yes - it's fun learning new things which definitely this week has been doing
 
 ### Am I a better programmer?
 
-
+Yes, learnt some starting tips on creating and testing web sites, using capybara and Sinatra.  Also the modelling session was good to help us work out how we're going to create them
 
 ### What do I want to do tomorrow?
 
-
+* Watch another 25 mins of the exemplar
+* After watching the start of the emeplar, maybe go back and find some exercises on Doubling - I understand the idea, but some of what I saw opened my eyes to more you can do with them!
 
 ### Have I completed today's goals?
 
-
+Yes
 
 ## Day 3:
 
