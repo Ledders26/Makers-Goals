@@ -88,89 +88,114 @@ Yes
 
 ### Goals for today
 
+**Watch another 25 mins of the exemplar from this weekend gone**
+I've broken it up into daily chunks so it doesn't feel like a 90 minute video I have to find time for.  Found really beneficial so far
 
+**Go back and review more about doubles and mocks**
+Watching the exemplar, I don't feel comfortable enough with mocking yet, so going to go back and try to familiarise myself with them more
 
 ### Summary
 
-
+In the morning we had an EQ session with Dana about empathy, then in the afternoon I paired with Jaroslaw on the battle app
 
 ### General Notes:
 
+Enjoyed the empathy session - I think two reasons, I've had empathy sessions before, but I find Dana a very inspirational talker on EQ, but also it's sometimes nice meeting with the cohort and not discussing coding or programming methods, and gives everyone a chance to express themselves a little more.
 
+Afternoon with Jaroslaw was also good.  We made some good progress with the intro to web development and have done the bare bones of the Battle app
 
 ### Did I have fun?
 
-
+Yes - as above, found the empathy session good and entertaining and myself and Jaroslaw paired well but also found out we both have 2 daughters who are almost exactly the same age!
 
 ### Am I a better programmer?
 
-
+I think so.  I don't feel I learnt anything new but I have reinforced the learning from the start of the week
 
 ### What do I want to do tomorrow?
 
+Going to keep tomorrow quite simple:
 
+* attend debugging and hopefully understand better the difference between how we debug the backend and frontend style of development
+* Attend the evening social event (quiz)
 
 ### Have I completed today's goals?
 
-
+1 yes, I have gone back and found a useful website explaining mocking/stubs/doubles.  Really helped as it was about a payment gateway, so a subject I understand from my previous role at JL
 
 ## Day 4:
 
 ### Goals for today
 
+N.B. Written after the morning debugging session:
 
+**look more into debugging a website**
+Felt like I still had some questions after this mornings session - will try and find something on google to assist
+**Go to the quiz**
+Be nice to socialise a bit!!
 
 ### Summary
 
-
+Morning session on debugging a website.  Afternoon pair with Claire, and then a quiz 5-6
 
 ### General Notes:
 
+Not sure it all went in tbh from the morning session.  I don't think it helped that we had a short period of time when we split up to look through it and therefore didn't have time to understand the aim/function/layout of the web site we were trying to fix, which made the session harder to follow...in the afternoon when debugging the battle app we've written I found it far easier to understand and therefore find problems.
 
+Afternoon pairing with Claire was a joy.  Really good to work with, bounced off each other and made some really good progress.  Looking forward to working with her again in the future
 
 ### Did I have fun?
 
-
+Yes, in the afternoon.  Found I was a bit concerned after the morning, but the afternoon was far better
 
 ### Am I a better programmer?
 
-
+Yes, Claire and I working enforced that I do know more about the debugging that I had thought after the morning, and our work really drilled home the MVC model and how it ties in
 
 ### What do I want to do tomorrow?
 
-
+* Start on the weekend challenge (ideally during the day)
+* Check in with the JL guys
+* Book catch up with my JL people manager (and former Maker!)
+* Look at the resources sent around debugging, to make sure I am happy with it
 
 ### Have I completed today's goals?
 
-
+Yes, they weren't too stretching!
 
 ## Day 5:
 
 ### Goals for today
 
+**Start working on weekend challenge**
+I'd like to make a start before the afternoon pairing and then crack on in the evening to get the bulk done before tomorrow
 
+**Review some of the Debugging stuff**
+I noticed Leo sent through something we can look at - want to confirm some of my understanding.
 
 ### Summary
 
-
+Morning had no workshops, but had a longer catch up with peer group and then the JL guys.  Also did some looking in to Debugging which helped me a fair bit.  Afternoon, after the retro Meg and I did some good work on the Battle App
 
 ### General Notes:
 
+Always nice to check in with everyone on a Friday and see how we're all getting on.  Some good positivity about this week.
 
+Then the afternoon, it was good to hear how everyone reflected on the week.  Coding with Meg was nice, we know each other from the peer group.  We had a good laugh and tidied up some historical code, fixed some tests and advanced a few steps too, so in 3 hours a good return.  
 
 ### Did I have fun?
 
-
+Yes, especially in the afternoon pairing!
 
 ### Am I a better programmer?
 
-
+Yes - debugging better (and indeed then this afternoon with Meg we had a fair bit of debugging to do!)
 
 ### What do I want to do tomorrow?
 
-
+As it's the weekend, my only goal I can look at is the weekend challenge.  Then next week will be something new to learn and new goals!
 
 ### Have I completed today's goals?
 
-
+Yes, well I'm about to start on the weekend challenge after finishing this!
 
