@@ -196,3 +196,7 @@ I'll focus on that Monday as it's the weekend, but plan is to make as much progr
 ### Have I completed today's goals?
 
 Yes - by the end of Friday night/Sat morning I'd made a good start on weekend challenge and had found time for another 20 mins of the exemplar
+
+### Did I achieve the weekly goals?
+
+Yes, though I found the splitting of classes very tricky, though I feel it's something we'll come back to as the course goes on.

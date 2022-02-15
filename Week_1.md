@@ -1,5 +1,12 @@
 # Week 1 goals, notes and mini-diary!
 
+## Week 1 Goals
+
+* Test-drive a simple program using objects and methods
+* Pair using the driver-navigator style
+* Follow an effective debugging process
+* Describe some basic OO principles like encapsulation, SRP
+
 ## Day 1:
 
 ### Summary
@@ -29,7 +36,7 @@
 
 ### General Notes:
 
-    Enjoyed first meditation course.  Relaxed and envigorated me and want to do more to see what I can continue to get out of it
+    Enjoyed first meditation course.  Relaxed and invigorated me and want to do more to see what I can continue to get out of it
 
 ### Did I have fun?
 
@@ -157,3 +164,7 @@
     Overall I've thoroughly enjoyed the first week.  The cohort all seem lovely, we're all supporting each other, there's people from many different backgrounds and no one seems to want to shirk the hard work.  I think by the end of 12 weeks we'll be very close.
 
     I've learnt so much.  Not just TDD, Debugging, coding, pair programming etc that is part of the course, and meditation which has been a revelation, but about myself.  I've enjoyed it even more than I thought possible, despite the amount of work, the late nights, and very hectic days.  Can't wait for week 2.
+
+## Did I achieve the weekly goals?
+
+Yes, although I feel my Driver/Navigator style needs some work!

@@ -199,3 +199,6 @@ As it's the weekend, my only goal I can look at is the weekend challenge.  Then 
 
 Yes, well I'm about to start on the weekend challenge after finishing this!
 
+### Have I completed the weekly goals?
+
+Yes, was especially happy to get Twilio working on my Takeaway app, and feel I've understood the intro to the Web
