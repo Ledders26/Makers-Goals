@@ -61,57 +61,71 @@ I find if, at worst, I'm in a place to start writing tests/code on Friday night,
 
 ### Summary
 
-
+Morning was our own to do as we saw fit (I started watching an exemplar from this weekends challenge and then made a start on the one for the coming weekend).  In the afternoon I was pairing with Ali
 
 ### General Notes:
 
+The exemplar wasn't as good as the previous one's, but I enjoyed learning a few things from the weekend. Notably the test writing and how they approached it differently to me.  For this weekend I've setup all my files/folders and have written my first (failing) test.
 
+Afternoon with Ali was a great session.  We got on well and made some good progress on the bookmark manager challenge
 
 ### Did I have fun?
 
-
+Yes, was nice to have a bit of a more relaxed morning plan and to then enjoy the coding with Ali
 
 ### Am I a better programmer?
 
-
+Yes, we learnt a lot about use of databases with ruby code this afternoon and got to use Table Plus too
 
 ### What do I want to do tomorrow?
 
-
+* Watch some more of the exemplar
+* Attend the Process Workshop
 
 ### Have I completed today's goals?
 
-
+Yes!  The spare time in the morning made it a lot easier
 
 ## Day 3:
 
 ### Goals for today
 
+**Watch some more of the exemplar**
+Made a good start yesterday, want to watch some more today
 
+**Look into installing some of the VS Code features**
+John referenced a few good tools (Rufo and endwise) which look useful.  I want to install them and look into how to run Rufo on save
 
 ### Summary
 
-
+Morning John did a demo of splitting a class (from week 2) then the afternoon we had a Process Workshop and coding with Francesco
 
 ### General Notes:
 
+The demo was a good, interactive session and demo'd how someone with more experience of coding and Ruby approaches something like that.  Showed me I should do more planning rather than jumping into tests and code!
 
+Process workshop, I was paired with Claire, again! We had fun and I think we both learnt something.  Good to put yourself under pressure of showing someone else how you're approaching a task.
+
+Finally only got just under an hour with Francesco to code.  We made a little progress but are going to find some time tomorrow to do some more
 
 ### Did I have fun?
 
-
+Yes, as always fun to work with Claire and also Francesco!
 
 ### Am I a better programmer?
 
-
+Yes - all three sessions I learnt something!
 
 ### What do I want to do tomorrow?
 
-
+* Spend some more time with Francesco to make up for lack of time today
+* Watch more exemplar
 
 ### Have I completed today's goals?
 
+1/2 - I have installed a endwise which is useful and helps you not forget to add end's...haven't yet got rufo working on save, but not yet sure if I want to, or if I can make, say, rubocop -x run then anyway...
 
+Only watched a small amount of the exemplar
 
 ## Day 4:
 
