@@ -131,31 +131,33 @@ Only watched a small amount of the exemplar
 
 ### Goals for today
 
-
+None set
 
 ### Summary
 
-
+Morning we had a Domain Modelling Databases Workshop, and then I paired with Chris in the afternoon
 
 ### General Notes:
 
+Morning session on Domain modelling was similar to others, however for databases...good to understand the process.
 
+Afternoon with Chris was good.  We progressed a lot on our bookmark manager, finishing number 11 which was tricky (around introducing a title and using that, with a link, for people to visit their bookmarked websites) - also learnt how to protect from sql injection (and, worrying, how to do sql injection!)
 
 ### Did I have fun?
 
-
+Yes, especially the afternoon with Chris
 
 ### Am I a better programmer?
 
-
+Yes, understanding modelling for databases is useful and we learnt a lot in the afternoon pair
 
 ### What do I want to do tomorrow?
 
-
+Main goal will be to make some significant progress on the weekend challenge
 
 ### Have I completed today's goals?
 
-
+N/A
 
 ## Day 5:
 
