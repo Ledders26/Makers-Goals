@@ -1,4 +1,4 @@
-# Week 1 goals, notes and mini-diary!
+# Week 4 goals, notes and mini-diary!
 
 ## Weeks goals:
 
@@ -13,6 +13,10 @@
 * Watch an exemplar for the weekend challenge
 * Try and complete more of the workshop/example learning provided in the week outline
 * Add a review of the goals from last week!
+
+### How did I do with last weeks goals?
+
+Good, I feel I can answer all the Makers questions, and made some good progress towards mine...and got Twilio working and sending me texts!
 
 ## Day 1:
 
@@ -163,29 +167,38 @@ N/A
 
 ### Goals for today
 
-
+**Work through the weekend challenge**
+It seems to be quite a big one, so I'm just making this my goal for today
 
 ### Summary
 
+Morning we had free, I caught up with my peer group, JL guys and then had a 1:1 with my people manager, James, at JL...he is also a former maker.  Afternoon we had the retro, paired on the Bookmark Manager, I was with Trushna today.
 
+There was also a project fair, demo'ing the projects of those coming to the end of their Makers journey
 
 ### General Notes:
 
+Was nice to speak to everyone and check in with them...especially James, as nice to find out how the real world is, but also for him to understand where I am in the journey having done it himself!
 
+Working with Trushna was lovely, we'd not worked together on anything before, so it was nice to meet and then make some decent progress towards the challenge.
+
+Seeing the projects others have done was an eye opener to what is possible...and how much more we will learn in the next 8 weeks!
 
 ### Did I have fun?
 
-
+Yes!
 
 ### Am I a better programmer?
 
-
+Yes, Trushna and I had some debugging to do, which re-enforced some of the principles and we made some further progress on the challenge
 
 ### What do I want to do tomorrow?
 
+It's the weekend, so weekend challenge.
 
+Next week we move on to a group project, so I want to see what that is all about and make some goals from there
 
 ### Have I completed today's goals?
 
-
+Yes - well I've started the weekend challenge!
 

@@ -1,4 +1,4 @@
-# Week 1 goals, notes and mini-diary!
+# Week 2 goals, notes and mini-diary!
 
 ## Weeks goals:
 
