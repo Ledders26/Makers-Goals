@@ -72,7 +72,7 @@ So, we've agreed tonight in the retro we need to make sure we understand it bett
 
 We also did less coding than I expected today, as Bromley and I did a lot of DB setup, documentation for that and working our processes for ways of working.
 
-We also moved to use guthub Projects rather than a basic Kanban board
+We also moved to use github Projects rather than a basic Kanban board
 
 ### Did I have fun?
 
@@ -96,89 +96,98 @@ Yes
 
 ### Goals for today
 
-
+I've stopped setting goals this week - working in a group we have our own tickets etc to achieve and at the moment we're working on tickets/issues as they come in.
 
 ### Summary
 
-
+After going through how Sequel worked in the morning, I broke off with Haroon to mainly do some css setup
 
 ### General Notes:
 
+Morning was interesting to try and learn but also teach some of the rest of the group how to use Sequel, and tie it back to SQL queries and how they tie in.
 
+In the afternoon, Haroon and I closed off a small bit of functionality then worked on some css/html setup to make it look better
 
 ### Did I have fun?
 
-
+Yes, learning/teaching and then doing css, which I always love
 
 ### Am I a better programmer?
 
-
+Yes, learning and checking my understanding of Sequel really helped today
 
 ### What do I want to do tomorrow?
 
-
+As above, no going to add goals as such, but want to press on with the group challenge and help the rest of the team learn where possible
 
 ### Have I completed today's goals?
 
-
+N/A
 
 ## Day 4:
 
 ### Goals for today
 
-
+N/A
 
 ### Summary
 
-
+Ongoing group project
 
 ### General Notes:
 
+After doing a standup and demo'ing code, we also then merged and resolved conflicts, which I'd not done before using Git.  In the afternoon Dash and I paired, and we did some fixing of the pages which added and then showed available spaces (or properties) and the bookings pages.
 
+In the evening I did some more work solo too, after the kids were in bed, to make sure we're as ready as we can be for the presentation tomorrow.
 
 ### Did I have fun?
 
-
+Yes, good learning and enjoyed coding with Dash
 
 ### Am I a better programmer?
 
-
+Yes, practicing merging was good to do, and in the evening I did flashes (where you send error handling back through pages by recording and then recalling a flash code line)
 
 ### What do I want to do tomorrow?
 
-
+N/A
 
 ### Have I completed today's goals?
 
-
+N/A
 
 ## Day 5:
 
 ### Goals for today
 
-
+Didn't set any officially but before the day starts:
+* update the website to make the css better and add buttons where possible
+* do a quick presentation
+* run the weekly team retro with Claire
 
 ### Summary
 
-
+Again, some merging in the morning, then we did a group coding session to sort out any remaining bits, presented our website and then retro, which Claire and I led
 
 ### General Notes:
 
+Enjoyable.  We made the website more presentable (though my CSS has a lot to learn!), demo'd it and then ran the retro, which was fun.
 
+Overall nice to see the different approaches to the task...and the different things some peopled used.  css frameworks, ORM's (like us using Sequel), different Agile tools etc
 
 ### Did I have fun?
 
-
+Yes, today was a good day!
 
 ### Am I a better programmer?
 
-
+I think so - learnt a bit more css, ran my first large retro and at the retro had a chance to pass on some stuff, as well as learn from what others have done
 
 ### What do I want to do tomorrow?
 
-
+Weekend challenge!
 
 ### Have I completed today's goals?
 
-
+N/A
 
