@@ -178,29 +178,32 @@ Mostly - have done the DISC questionnaire and updated large part of my cheatshee
 
 ### Goals for today
 
-
+**Make a start on the weekend challenge!**
+As we have most of this morning free of any workshops, I want to make a start at doing this weekends challenge (which is basically last weekends challenge, but in JavaScript!)
 
 ### Summary
 
-
+After the usual peer group catch up, and JL catch up, made a start on the weekend challenge.  Afternoon was the weekly retro then pairing with Chloe
 
 ### General Notes:
 
+There was a bit of debate in the retro around the difficulty of the weekend challenges.  My personal view is I like that they are hard.  I signed up for this to be a challenge, to push me and to continuously learn.  That said, I appreciate some of the cohort are struggling and we need to ensure, as a Cohort, we can support those guys.
 
+After that, the session with Chloe was fun.  We covered ground I'd completed earlier in the week, but I think that benefitted me in as much as JS is new, and therefore doing more of it is enforcing it in my head!
 
 ### Did I have fun?
 
-
+Yes, throughout the day
 
 ### Am I a better programmer?
 
-
+Yes, I've re-enforced my weeks learning, have done a little coaching and Chloe showed me I should be more organised!
 
 ### What do I want to do tomorrow?
 
-
+It's the weekend so........weekend challenge!
 
 ### Have I completed today's goals?
 
-
+Yes
 
