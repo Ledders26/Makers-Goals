@@ -106,61 +106,73 @@ Yes, have written down some notes for this weekends challenge around writing a s
 
 ### Goals for today
 
-
+**Update my JavaScript cheatsheet**
+I've learnt a lot of new JavaScript and want to make sure I have it noted down, especially with the weekend challenge looming.
 
 ### Summary
 
-
+In the morning we had an EQ workshop with Dana on working as a team, then afternoon I did another Process Workshop and then paired with Marie
 
 ### General Notes:
 
+Morning workshop was interesting and we discussed DISC, which groups people by their traits and how they behave/respond to situations.  We discussed how to behave with different types of people, and how it's important to have a mix in any team.
 
+The Process Workshop was brilliant.  Was paired with Niclolas from the Feb cohort, I'd like to think we both taught each other something, I came away with a few new shortcuts and some good feedback on my coding.
+
+Finally had a brief pairing session with Marie - we made some good progress even though we had limited time
 
 ### Did I have fun?
 
-
+Yes, very enjoyable day
 
 ### Am I a better programmer?
 
-
+Yes, took some good information from the EQ session, as well as from the process workshop and Marie and I learnt a fair bit in the afternoon
 
 ### What do I want to do tomorrow?
 
-
+* Complete my DISC questionnaire
+* Update my JS cheatsheet (I didn't achieve it today!)
 
 ### Have I completed today's goals?
 
-
+No...
 
 ## Day 4:
 
 ### Goals for today
 
+**Complete my DISC questionnaire**
+After the EQ session yesterday I want to complete this questionnaire and use it to reflect on what drives me
 
+**Update my JS cheatsheet**
+Since yesterday I've learnt even more and need to update my cheatsheet!
 
 ### Summary
 
-
+Morning session with John about callbacks, then paired with Jack in the afternoon
 
 ### General Notes:
 
+I found callbacks an interesting feature of JavaScript, and one which I suspect we'll use a lot!  Good session with John.  As I'd established from Jack that he was a bit ahead, I used the break between the two to do some catching up and got up to the same point...
 
+Jack and I had a great session.  Worked through a very good amount of work and learnt a lot on the way.  Always enjoy working with Jack
 
 ### Did I have fun?
 
-
+Yes
 
 ### Am I a better programmer?
 
-
+Yes, for sure.  Understanding callbacks is good, the use of work queues via time delays too.  Also, made good progress with Jack and both practiced what I've learnt already (not least writing of functions and tests) and some newer features
 
 ### What do I want to do tomorrow?
 
-
+* Make a start on the weekend challenge
 
 ### Have I completed today's goals?
 
-
+Mostly - have done the DISC questionnaire and updated large part of my cheatsheet though not all
 
 ## Day 5:
 
